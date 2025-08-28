@@ -1,0 +1,6 @@
+<resources>
+    <!-- Launch Theme -->
+    <style name="LaunchTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowBackground">@color/splash_color</item>
+    </style>
+</resources>
